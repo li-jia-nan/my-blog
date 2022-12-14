@@ -1,6 +1,6 @@
 # 我的技术博客
 
-这个项目是我 brickspert(砖家) 的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。
+这个项目是我的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。
 
 [进入博客](https://github.com/li-jia-nan/my-blog/issues)
 
